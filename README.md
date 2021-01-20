@@ -1,4 +1,4 @@
-# Simple Backup to CMS Joomla 2.5 and 3.x
+# Jumla Backup
 
 ### Com a compra do GitHub pela (MS) fiz uma cópia deste repositório no GitLab.
 https://gitlab.com/ribafs/com_simplebackup
